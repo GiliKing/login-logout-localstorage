@@ -1,7 +1,7 @@
 # login-logout-localstorage
 
 
-using browser local storage to create a simple login and login 
+using browser local storage to create a simple login and logout 
 
 link down below
 
